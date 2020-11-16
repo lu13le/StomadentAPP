@@ -1,0 +1,11 @@
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\bin\Debug\StomadentApp.exe.config
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\bin\Debug\StomadentApp.exe
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\bin\Debug\StomadentApp.pdb
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\obj\Debug\StomadentApp.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\obj\Debug\StomadentApp.Protokol.resources
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\obj\Debug\StomadentApp.Properties.Resources.resources
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\obj\Debug\StomadentApp.UnosNovog.resources
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\obj\Debug\StomadentApp.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\obj\Debug\StomadentApp.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\obj\Debug\StomadentApp.exe
+C:\Users\Luka\source\repos\StomadentApp\StomadentApp\obj\Debug\StomadentApp.pdb
